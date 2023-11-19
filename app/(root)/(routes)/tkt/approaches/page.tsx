@@ -18,19 +18,19 @@ export default function Page() {
 						</h2>
 						<p>
 							Have you ever wondered how you effortlessly pick up new words or
-							express your thoughts in English? Today, we're diving deep into
+							express your thoughts in English? Today, we&apos;re diving deep into
 							the fascinating realm of language learning. 🤔💬
 						</p>
 					</div>
 
 					<div className="md:text-left">
 						<h2 className="text-2xl font-semibold text-green-300 mb-2">
-							🚀 What's in Store?
+							🚀 What&apos;s in Store?
 						</h2>
 						<p>
 							Get set for an engaging exploration of different approaches to
-							language teaching. We're not just talking about rules and
-							textbooks; we're delving into the dynamic ways people like you and
+							language teaching. We&apos;re not just talking about rules and
+							textbooks; we&apos;re delving into the dynamic ways people like you and
 							me learn and embrace languages.
 						</p>
 					</div>
@@ -54,8 +54,8 @@ export default function Page() {
 							🌈 Language Learning is an Adventure
 						</h2>
 						<p>
-							Buckle up! We're here to prove that learning a language isn't just
-							about memorizing words; it's an adventure, a journey filled with
+							Buckle up! We&apos;re here to prove that learning a language isn&apos;t just
+							about memorizing words; it&apos;s an adventure, a journey filled with
 							discovery and growth. 🌟
 						</p>
 					</div>
@@ -68,12 +68,12 @@ export default function Page() {
 
 				<p className="text-lg text-orange-100 my-6">
 					As we explore different language approaches, think about how you
-					connect with English. There's no one-size-fits-all, and today is about
+					connect with English. There&apos;s no one-size-fits-all, and today is about
 					finding what clicks for YOU.
 				</p>
 
 				<p className="text-lg text-pink-100 my-6">
-					Enough chit-chat, Language Explorers! Let's embark on this thrilling
+					Enough chit-chat, Language Explorers! Let&apos;s embark on this thrilling
 					exploration of language, where each word is a step toward a more
 					exciting, connected, and linguistically rich world. 🌐✨
 				</p>
