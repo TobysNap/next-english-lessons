@@ -79,10 +79,10 @@ export default function Page() {
 				</p>
 
 				<Link
-					href={'/tkt/approaches/activities'}
+					href={'/tkt/approaches/table'}
 					className="bg-pink-300 text-black font-bold rounded-lg p-4 transition-colors hover:bg-transparent hover:outline"
 				>
-					Go to the activities
+					Go to the table
 				</Link>
 			</div>
 		</main>
